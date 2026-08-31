@@ -1,11 +1,5 @@
 [![Wave banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Ilya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descAlignY=58&descSize=20)](https://github.com/DaiBoh)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+AI+Engineer;Turning+Models+Into+Real+Products;LLMs+%2B+React+%2B+TypeScript+%2B+Python;From+Model+to+Production)](https://git.io/typing-svg)
-
-</div>
-
 ### About Me
 
 I work as a **Full-Stack AI Engineer** — I design and integrate the model/LLM
@@ -101,18 +95,6 @@ the whole path from pipeline to UI.
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DaiBoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiBoh&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DaiBoh&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-### Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DaiBoh/DaiBoh/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br>
