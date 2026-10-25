@@ -2,7 +2,7 @@
 
 ### About Me
 
-I work as a **Full-Stack AI Engineer** — I design and integrate the model/LLM
+I work as a **Full-Stack Engineer** — I design and integrate the model/LLM
 layer of a product *and* build the production-grade application around it,
 end-to-end. Rather than handing off between an ML side and a web side, I own
 the whole path from pipeline to UI.
