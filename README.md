@@ -1,18 +1,16 @@
-[![Wave banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Ilya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descAlignY=58&descSize=20)](https://github.com/DaiBoh)
+[![Wave banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Ilya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20)](https://github.com/DaiBoh)
 
 ### About Me
 
-I work as a **Full-Stack Engineer** — I design and integrate the model/LLM
-layer of a product *and* build the production-grade application around it,
-end-to-end. Rather than handing off between an ML side and a web side, I own
-the whole path from pipeline to UI.
+I work as a **Full-Stack Web Developer** — I design and build
+production-grade web applications end-to-end, from the database and API
+to the UI on top.
 
-- Primary goal: shipping complete products centered on **AI / ML**, not isolated notebooks or isolated frontends
-- Core strength: taking an AI/LLM pipeline from prototype to a real, production web application
-- Comfortable across the full path — model/LLM integration, data pipelines, APIs, and the UI on top
-- Full-stack foundation across modern **JS/TS, Python & Node**, SQL/NoSQL databases, Docker-based deployments
-- Currently exploring: RAG pipelines, agentic workflows, LLM tooling, fine-tuning
-- Ask me about: LLMs, RAG, ML pipelines, React, TypeScript, Python, FastAPI, Docker
+- Primary goal: shipping complete, polished web products
+- Core strength: taking an idea from prototype to a real, production web application
+- Comfortable across the full path — APIs, databases, deployment, and the UI
+- Full-stack foundation across modern **JS/TS, Node & Python**, SQL/NoSQL databases, Docker-based deployments
+- Ask me about: React, TypeScript, Node.js, Python, FastAPI, Docker
 - Reach me: chubarev.tilta@gmail.com
 
 <br>
@@ -54,22 +52,6 @@ the whole path from pipeline to UI.
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6366F1?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-6366F1?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=for-the-badge)
 
 **DevOps & Tools**
 
